@@ -1,0 +1,30 @@
+.body{
+background-color: blue ;
+}
+
+.fondo-resumen{
+    background-color: #58585a;
+    margin-left: 0%;
+	padding: 0%;
+}
+
+.fondo-caja{
+    background-color: #9fcb39;
+	margin-left: -10px;
+	margin-right: -15px;
+}
+
+.font{
+    background-color: #9ffff9;
+	margin-left: 0%;   
+}
+
+input { 
+		width:175px;
+		height:35px;
+		background-image: url('c/laragon/www/ncr/public/AdminLTE/dist/img/input.png');
+		font-size:15pt; 
+		font-family:Verdana;
+		text-align:center;color:#a0c527; 
+	
+     }
